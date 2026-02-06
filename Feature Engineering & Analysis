@@ -1,5 +1,0 @@
-### Feature Engineering & Analysis (Excel)
-
-- Performed feature engineering by deriving an **Age** column from Year of Birth.
-- Used **COUNTIF** to analyze age-based distributions.
-- Built and validated the analysis using Microsoft Excel on dummy datasets.
